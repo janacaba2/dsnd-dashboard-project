@@ -19,7 +19,7 @@ class Dropdown(BaseComponent):
         dropdown_settings = {
             'name': self.name
             }
-        
+
         # if model.name:
         #     dropdown_settings['disabled'] = 'disabled'
 
